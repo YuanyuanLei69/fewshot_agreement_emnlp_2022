@@ -16,9 +16,9 @@ In online discussion forums and social media platforms, people express different
 
 ## Code Description
 * **FewShot.py:** The metric-based meta-learning model (section 3.1) that trains a meta-learner with two key abilities: deriving the attentive class embedding from few provided support examples, and comparing the relation between new instance and each class embedding to make the prediction.
-* **FewShot_reg.py:** The meta-learning model with the lexicon-based regularization loss (section 3.2) which makes the meta-learner focus more on the domain-invariant features.
-* **FewShot_aug.py:** The meta-learning model with domain-aware task augmentation (section 3.3) which enables the meta-learner to learn domain-specific expressions.
-* **FewShot_aug_reg.py:** The meta-learning model with both lexicon-based regularization loss and domain-aware task augmentation, also our full model.
+* **FewShot_reg.py:** The meta-learning model with the lexicon-based regularization loss (section 3.2) that makes the meta-learner focus more on the domain-invariant features.
+* **FewShot_aug.py:** The meta-learning model with domain-aware task augmentation (section 3.3) that enables the meta-learner to learn domain-specific expressions.
+* **FewShot_aug_reg.py:** The meta-learning model with both lexicon-based regularization loss and domain-aware task augmentation, which is also our full model.
 
 <br/>
 
