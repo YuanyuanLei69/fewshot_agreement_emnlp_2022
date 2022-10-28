@@ -38,7 +38,9 @@ If you are going to cite this paper, please use the form:
 <br/>
 
 ## Reference
-[1] Marilyn A. Walker, Pranav Anand, Jean E. Fox Tree, Rob Abbott, Joseph King. "A Corpus for Research on Deliberation and Debate." In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC), Istanbul, Turkey, 2012.<br/>
-[2] Sara Rosenthal and Kathy McKeown. 2015. I Couldn’t Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions. In Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 168–177, Prague, Czech Republic. Association for Computational Linguistics.<br/>
+[1] Marilyn A. Walker, Pranav Anand, Jean E. Fox Tree, Rob Abbott, Joseph King. "A Corpus for Research on Deliberation and Debate." In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC), Istanbul, Turkey, 2012.
+
+[2] Sara Rosenthal and Kathy McKeown. 2015. I Couldn’t Agree More: The Role of Conversational Structure in Agreement and Disagreement Detection in Online Discussions. In Proceedings of the 16th Annual Meeting of the Special Interest Group on Discourse and Dialogue, pages 168–177, Prague, Czech Republic. Association for Computational Linguistics.
+
 [3] Jacob Andreas, Sara Rosenthal, and Kathleen McKeown. 2012. Annotating Agreement and Disagreement in Threaded Discussion. In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12), pages 818–822, Istanbul, Turkey. European Language Resources Association (ELRA).
 
