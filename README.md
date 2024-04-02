@@ -5,7 +5,8 @@
 **Paper:** Few-Shot (Dis)Agreement Identification in Online Discussions with Regularized and Augmented Meta-Learning<br/>
 **Accepted:** The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)<br/>
 **Authors:** Yuanyuan Lei, Ruihong Huang<br/>
-**Affiliation:** Department of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA
+**Affiliation:** Department of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA<br/>
+**Paper Link:** https://aclanthology.org/2022.findings-emnlp.409/
 
 <br/>
 
